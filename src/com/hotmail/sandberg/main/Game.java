@@ -1,6 +1,6 @@
-package com.company;
+package com.hotmail.sandberg.main;
 
-public class Main {
+public class Game {
 
     public static void main(String[] args) {
 	// write your code here
